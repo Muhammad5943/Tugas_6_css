@@ -1,0 +1,25 @@
+.satu1 {
+  background-color: #6eecdf;
+  border-style: dotted;
+  border-color: red;
+  border-width: 10px;
+  }
+
+.dua2 {
+  background-color: #6eecdf;
+  border-style: solid;
+  border-color: #2ca132;
+  border-width: 5px;
+}
+
+.tiga3 {
+  background-color: #6eecdf;
+  border-style: dashed;
+  border-color: #1642d2;
+  border-width: 20px;
+}
+
+textarea {
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
